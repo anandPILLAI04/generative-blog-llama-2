@@ -25,3 +25,4 @@ streamlit run app.py
 
 ## Acknowledgments
 This app uses the LLAma 2 model for text generation.
+The inspiration for this project was taken from :-https://www.youtube.com/watch?v=x0AnCE9SE4A&t=98s

@@ -7,6 +7,7 @@ Welcome to the Generative Blog Llama 2! 🚀 This cutting-edge Streamlit app har
 - [Dependencies](#dependencies)
 - [How to Run](#how-to-run)
 - [Usage](#usage)
+- [Screenshot](#screen-shot)
 - [Acknowledgments](#acknowledgments)
 
 ## Dependencies
@@ -51,6 +52,9 @@ Using this app is as easy as 1-2-3-4:
 4. **Click the "Generate" button:** Sit back and watch as the LLAma 2 model weaves its magic, creating a blog post tailored to your specifications.
 
 Explore the possibilities and unlock your creativity with Generative Blog Llama 2!
+
+## Screen Shot
+<img width="888" alt="Screenshot 2024-01-28 at 12 05 13 AM" src="https://github.com/anandPILLAI04/generative-blog-llama-2/assets/129036732/f8f4bf7b-201a-4115-a720-f6e4ad59cb64">
 
 ## Acknowledgments
 
